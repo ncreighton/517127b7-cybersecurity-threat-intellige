@@ -1,2 +1,31 @@
-# 517127b7-cybersecurity-threat-intellige
-A comprehensive Notion workspace for cybersecurity teams, SOC analysts, and IT security managers. Includes a threat intelligence tracker with MITRE ATT&amp;CK framework mapping, incident response runbooks, vulnerability management pipeline, asset inventory database, and compliance status board for SOC2, ISO 27001, and NIST frameworks. Pre-loaded with 5
+# Cybersecurity Threat Intelligence and Incident Response Notion Template
+
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/7sY5kDeTt1g0aNO1ZicZa1w)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/7sY5kDeTt1g0aNO1ZicZa1w)
+- [Buy on Gumroad](https://gumroadian755.gumroad.com/l/dnlwqr)
+- [Buy on Whop](https://whop.com/cybersecurity-threat-intelligence-and-incident-response-notion-template)
+
